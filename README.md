@@ -36,7 +36,7 @@ A modern Restaurant Management and Online Food Ordering platform designed to sim
 
 ---
 
-# 📖 About
+# About
 
 The Restaurant Management System is a full-stack web application developed to digitize restaurant operations and provide customers with a seamless online food ordering experience.
 
