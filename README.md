@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-🍽️ Restaurant Management System
+ Restaurant Management System
 </h1>
 
 <p align="center">
