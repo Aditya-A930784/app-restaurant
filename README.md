@@ -8,9 +8,7 @@
 
 </p>
 
-<h1 align="center">
- Restaurant Management System
-</h1>
+
 
 <p align="center">
 
