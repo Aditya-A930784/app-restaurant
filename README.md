@@ -60,7 +60,7 @@ The system enables customers to browse restaurants, explore menus, place food or
 
 #  Key Features
 
-## 👤 Customer Module
+##  Customer Module
 
 - User Registration
 - Secure Login
