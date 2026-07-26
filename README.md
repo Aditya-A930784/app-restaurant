@@ -105,7 +105,7 @@ The system enables customers to browse restaurants, explore menus, place food or
 
 ---
 
-## 👨‍💼 Admin Module
+##  Admin Module
 
 - Dashboard
 - Restaurant Management
