@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
- 
+     
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=950&lines=Restaurant+Management+System;Online+Food+Ordering+Application;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Modern+Full+Stack+Web+Application;Fast+%7C+Secure+%7C+Scalable" />
 
 </p>
