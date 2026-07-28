@@ -78,7 +78,7 @@ The system enables customers to browse restaurants, explore menus, place food or
 
 ---
 
-## 📋 Menu Module
+##  Menu Module
 
 - View Menu
 - Food Categories
