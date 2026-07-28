@@ -69,7 +69,7 @@ The system enables customers to browse restaurants, explore menus, place food or
 
 ---
 
-## 🍔 Restaurant Module
+##  Restaurant Module
 
 - Browse Restaurants
 - Search Restaurants
